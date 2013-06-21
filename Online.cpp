@@ -602,4 +602,3 @@ long Online::findRoot( long position )
   }
 }
 
-// for test
